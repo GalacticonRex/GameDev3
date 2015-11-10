@@ -8,3 +8,4 @@ shoot: shooting the gun
 timeup: clock runs out
 title: title screen music
 warp: activating time travel or landing, whatever
+timelycleanersad: Credits acapella music
